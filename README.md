@@ -1,5 +1,3 @@
-# node-api
-
 ## Install
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
