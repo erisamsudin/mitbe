@@ -1,12 +1,3 @@
-# grosir-api
-
-## Table of content
-
-- [Install](#install)
-- [Setup](#setup)
-- [End point](#end-point)
-  - [End point CSTDC](#end-point-cstdc)
-  - [End point CSTVLD](#end-point-cstvld)
 
 ## Install
 
