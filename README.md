@@ -1,12 +1,4 @@
-# grosir-api
-
-## Table of content
-
-- [Install](#install)
-- [Setup](#setup)
-- [End point](#end-point)
-  - [End point CSTDC](#end-point-cstdc)
-  - [End point CSTVLD](#end-point-cstvld)
+# node-api
 
 ## Install
 
@@ -20,13 +12,10 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 
-
 ## Setup
 
 This is for setup variable environment on your local machine.
-
 -Ubuntu
-
 ```sh
 export AMG_HOST=localhost
 export AMG_DB=TheDB

@@ -107,13 +107,15 @@ router.post('/forgot', Auth, async (req, res) => {
   var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: 'e.alphateam@gmail.com',
-      pass: 'berasputih123;'
+      //User and Password Email
+      user: '',
+      pass: ''
     }
   });
 
   var mailOptions = {
-    from: 'e.alphateam@gmail.com',
+    //Sender Email
+    from: '',
     to: body.email,
     subject: 'Forgot Password',
     html: 'Hi ' + body.username + ' Here Your Code Activation <h1>' + codemail + '</h1>'
