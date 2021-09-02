@@ -1,0 +1,10 @@
+{
+  "db_host": "AMG_HOST",
+  "db_name": "AMG_DB",
+  "db_user": "AMG_USER",
+  "db_pass": "AMG_PASSWORD",
+  "nsi_key": "AMG_NSI_KEY",
+  "enc_key": "AMG_ENC_KEY",
+  "jwt_key": "AMG_JWT_KEY"
+}
+

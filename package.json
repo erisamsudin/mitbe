@@ -1,0 +1,27 @@
+{
+  "name": "buana-online-api",
+  "version": "1.0.0",
+  "description": "buana online api",
+  "main": "node-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jafar pahrudin",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^4.0.1",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.26.0",
+    "moment-timezone": "^0.5.31",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12",
+    "random": "^3.0.6",
+    "randomstring": "^1.2.1",
+    "winston": "^3.2.1"
+  }
+}
